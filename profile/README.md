@@ -384,8 +384,6 @@ DEVELOPER TOOLS // AUTOMATION // AI
 
 ## Grablex products
 
-Symploka s.r.o. · IČO 30173833 is the parent company behind **Grablex Web**, **Grablex Code** and **Grablex Pass**.
-
 - [Grablex](https://grablex.com) — our product ecosystem.
 - [Grablex Web](https://github.com/symploka/grablex-web) — web platform.
 - [Grablex Code](https://github.com/symploka/grablex-code) — AI coding workspace.
