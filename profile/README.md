@@ -1,31 +1,31 @@
 <div align="center">
 
-<h1>☠ WEBDANGER</h1>
+<h1>☠ SYMPLOKA</h1>
 
 <h3>WEB INFRASTRUCTURE // DEVELOPER PRODUCTS</h3>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=700&color=39FF14&center=true&vCenter=true&width=760&lines=%3E+domains+%2F%2F+dns+%2F%2F+cloud_;%3E+hosting+%2F%2F+deployment+%2F%2F+security_;%3E+developer+tools+%2F%2F+automation+%2F%2F+AI_;%3E+building+one+ecosystem+for+the+web_;%3E+shipping+from+Prague+to+the+internet_"
-  alt="WEBDANGER terminal"
+  alt="SYMPLOKA terminal"
 />
 
 <br><br>
 
-<a href="https://webdanger.com">
+<a href="https://symploka.com">
 <img
-  src="https://img.shields.io/badge/WEBDANGER-WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=39FF14"
-  alt="WEBDANGER Website"
+  src="https://img.shields.io/badge/SYMPLOKA-WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=39FF14"
+  alt="SYMPLOKA Website"
 />
 </a>
 
-<a href="https://github.com/webdanger-com?tab=repositories">
+<a href="https://github.com/symploka?tab=repositories">
 <img
   src="https://img.shields.io/badge/OPEN-REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=39FF14"
   alt="Repositories"
 />
 </a>
 
-<a href="mailto:contact@webdanger.com">
+<a href="mailto:contact@symploka.com">
 <img
   src="https://img.shields.io/badge/CONTACT-EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=39FF14"
   alt="Contact"
@@ -44,10 +44,10 @@
 
 <div align="center">
 
-<h2>⚡ WHAT IS WEBDANGER?</h2>
+<h2>⚡ WHAT IS SYMPLOKA?</h2>
 
 <p>
-WEBDANGER is building a modern ecosystem for creating, launching,
+SYMPLOKA is building a modern ecosystem for creating, launching,
 operating and protecting things on the internet.
 </p>
 
@@ -142,7 +142,7 @@ AI where it actually makes the product better.
 <h2>🧪 OPEN SOURCE</h2>
 
 <p>
-WEBDANGER is beginning to open selected parts of what we build.
+SYMPLOKA is beginning to open selected parts of what we build.
 </p>
 
 <p>
@@ -194,7 +194,7 @@ Issues, technical feedback and pull requests will be welcome.
 <h2>☠ FOUNDER-BUILT</h2>
 
 <p>
-WEBDANGER is currently built and operated by one founder.
+SYMPLOKA is currently built and operated by one founder.
 </p>
 
 <h3>One person is building the system from the ground up.</h3>
@@ -235,7 +235,7 @@ The objective is to build until it has to become larger.
 
 <br><br>
 
-<h2>MAKE WEBDANGER HARD TO IGNORE.</h2>
+<h2>MAKE SYMPLOKA HARD TO IGNORE.</h2>
 
 <p>
 Not through hype.<br>
@@ -310,7 +310,7 @@ PUBLIC REPOSITORIES // COMING
 <h2>🤝 BUILD WITH US</h2>
 
 <p>
-This GitHub will become the public engineering side of WEBDANGER.
+This GitHub will become the public engineering side of SYMPLOKA.
 </p>
 
 <p>
@@ -320,22 +320,22 @@ If a repository is public, feedback is welcome.
 <p>
 Found a bug? Open an issue.<br>
 Have a better implementation? Send a pull request.<br>
-Built something with WEBDANGER? Show us.
+Built something with SYMPLOKA? Show us.
 </p>
 
 <br>
 
-<a href="https://github.com/webdanger-com?tab=repositories">
+<a href="https://github.com/symploka?tab=repositories">
 <img
   src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=39FF14"
   alt="Explore repositories"
 />
 </a>
 
-<a href="mailto:contact@webdanger.com">
+<a href="mailto:contact@symploka.com">
 <img
-  src="https://img.shields.io/badge/TALK_TO-WEBDANGER-111111?style=for-the-badge&logo=minutemailer&logoColor=39FF14"
-  alt="Contact WEBDANGER"
+  src="https://img.shields.io/badge/TALK_TO-SYMPLOKA-111111?style=for-the-badge&logo=minutemailer&logoColor=39FF14"
+  alt="Contact SYMPLOKA"
 />
 </a>
 
@@ -347,7 +347,7 @@ Built something with WEBDANGER? Show us.
 
 <div align="center">
 
-<h2>🌐 WEBDANGER</h2>
+<h2>🌐 SYMPLOKA</h2>
 
 <p>
 <samp>
@@ -358,10 +358,10 @@ DEVELOPER TOOLS // AUTOMATION // AI
 
 <br>
 
-<a href="https://webdanger.com">
+<a href="https://symploka.com">
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=1&pause=999999&color=000000&background=39FF14&center=true&vCenter=true&repeat=false&width=220&height=34&lines=ENTER+WEBDANGER.COM"
-  alt="Enter WEBDANGER"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=1&pause=999999&color=000000&background=39FF14&center=true&vCenter=true&repeat=false&width=220&height=34&lines=ENTER+SYMPLOKA.COM"
+  alt="Enter SYMPLOKA"
 />
 </a>
 
@@ -371,12 +371,24 @@ DEVELOPER TOOLS // AUTOMATION // AI
 
 <br><br>
 
-<a href="https://webdanger.com">WEBSITE</a>
+<a href="https://symploka.com">WEBSITE</a>
 &nbsp; // &nbsp;
-<a href="https://github.com/webdanger-com?tab=repositories">REPOSITORIES</a>
+<a href="https://github.com/symploka?tab=repositories">REPOSITORIES</a>
 &nbsp; // &nbsp;
 <a href="https://github.com/VadimHackman">FOUNDER</a>
 &nbsp; // &nbsp;
-<a href="mailto:contact@webdanger.com">CONTACT</a>
+<a href="mailto:contact@symploka.com">CONTACT</a>
 
 </div>
+
+
+## Grablex products
+
+Symploka s.r.o. · IČO 30173833 is the parent company behind **Grablex Web**, **Grablex Code** and **Grablex Pass**.
+
+- [Grablex](https://grablex.com) — our product ecosystem.
+- [Grablex Web](https://github.com/symploka/grablex-web) — web platform.
+- [Grablex Code](https://github.com/symploka/grablex-code) — AI coding workspace.
+- Grablex Pass — encrypted local vault.
+
+The parent-company website is being prepared at [symploka.com](https://symploka.com).
